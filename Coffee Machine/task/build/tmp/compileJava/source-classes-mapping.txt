@@ -1,0 +1,31 @@
+machine/CoffeeMachine.java
+ machine.CoffeeMachine
+machine/handler/Handler.java
+ machine.handler.Handler
+machine/handler/HandlerResult.java
+ machine.handler.HandlerResult
+ machine.handler.HandlerResult$HandlerResultBuilder
+machine/handler/BootStrapHandler.java
+ machine.handler.BootStrapHandler
+machine/handler/FillHandler.java
+ machine.handler.FillHandler
+ machine.handler.FillHandler$Action
+machine/StringUtils.java
+ machine.StringUtils
+machine/NewCoffeeMachine.java
+ machine.NewCoffeeMachine
+machine/handler/RemainingHandler.java
+ machine.handler.RemainingHandler
+machine/handler/TakeHandler.java
+ machine.handler.TakeHandler
+machine/CoffeeMenu.java
+ machine.CoffeeMenu
+machine/Stock.java
+ machine.Stock
+machine/handler/SelectActionHandler.java
+ machine.handler.SelectActionHandler
+ machine.handler.SelectActionHandler$Action
+machine/handler/BuyHandler.java
+ machine.handler.BuyHandler
+machine/handler/HandlerHolder.java
+ machine.handler.HandlerHolder
